@@ -23,3 +23,7 @@
 1. Компановка элементов
 2. Работа с палитрой
 3. Возможно добавить иную информацию для отображения
+
+
+[video.webm](https://github.com/user-attachments/assets/a426c7e5-bfa6-4b4c-8f0d-798c6baecab4)
+
